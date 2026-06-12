@@ -1,0 +1,487 @@
+Dapat hasil seperti ini:
+
+{
+    "golongan": [
+        {
+            "golongan": "I/a",
+            "pangkat": "Juru Muda"
+        },
+        {
+            "golongan": "I/b",
+            "pangkat": "Juru Muda Tk. I"
+        },
+        {
+            "golongan": "I/c",
+            "pangkat": "Juru"
+        },
+        {
+            "golongan": "I/d",
+            "pangkat": "Juru Tk. I"
+        },
+        {
+            "golongan": "II/a",
+            "pangkat": "Pengatur Muda"
+        },
+        {
+            "golongan": "II/b",
+            "pangkat": "Pengatur Muda Tk. I"
+        },
+        {
+            "golongan": "II/c",
+            "pangkat": "Pengatur"
+        },
+        {
+            "golongan": "II/d",
+            "pangkat": "Pengatur Tk. I"
+        },
+        {
+            "golongan": "III/a",
+            "pangkat": "Penata Muda"
+        },
+        {
+            "golongan": "III/b",
+            "pangkat": "Penata Muda Tk. I"
+        },
+        {
+            "golongan": "III/c",
+            "pangkat": "Penata"
+        },
+        {
+            "golongan": "III/d",
+            "pangkat": "Penata Tk. I"
+        },
+        {
+            "golongan": "IV/a",
+            "pangkat": "Pembina"
+        },
+        {
+            "golongan": "IV/b",
+            "pangkat": "Pembina Tk. I"
+        },
+        {
+            "golongan": "IV/c",
+            "pangkat": "Pembina Utama Muda"
+        },
+        {
+            "golongan": "IV/d",
+            "pangkat": "Pembina Utama Madya"
+        },
+        {
+            "golongan": "IV/e",
+            "pangkat": "Pembina Utama"
+        }
+    ],
+    "unor_induk": [
+        {
+            "singkatan": "BAKESBANGPOL",
+            "unor_induk_lengkap": "Badan Kesatuan Bangsa dan Politik"
+        },
+        {
+            "singkatan": "BAPPERIDA",
+            "unor_induk_lengkap": "Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah"
+        },
+        {
+            "singkatan": "BKPSDM",
+            "unor_induk_lengkap": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
+        },
+        {
+            "singkatan": "BPBD",
+            "unor_induk_lengkap": "Badan Penanggulangan Bencana Daerah"
+        },
+        {
+            "singkatan": "BPKPAD",
+            "unor_induk_lengkap": "Badan Pengelolaan Keuangan, Pendapatan, dan Aset Daerah"
+        },
+        {
+            "singkatan": "DINKES",
+            "unor_induk_lengkap": "Dinas Kesehatan"
+        },
+        {
+            "singkatan": "DINSOS",
+            "unor_induk_lengkap": "Dinas Sosial"
+        },
+        {
+            "singkatan": "DISDIKBUD",
+            "unor_induk_lengkap": "Dinas Pendidikan dan Kebudayaan"
+        },
+        {
+            "singkatan": "DISDUKCAPIL",
+            "unor_induk_lengkap": "Dinas Kependudukan dan Pencatatan Sipil"
+        },
+        {
+            "singkatan": "DISHUB",
+            "unor_induk_lengkap": "Dinas Perhubungan"
+        },
+        {
+            "singkatan": "DISKOMINFOSAN",
+            "unor_induk_lengkap": "Dinas Komunikasi, Informatika, Statistik, dan Persandian"
+        },
+        {
+            "singkatan": "DISPERINDAG",
+            "unor_induk_lengkap": "Dinas Perindustrian dan Perdagangan"
+        },
+        {
+            "singkatan": "DISPERSIP",
+            "unor_induk_lengkap": "Dinas Perpustakaan dan Kearsipan"
+        },
+        {
+            "singkatan": "DISPORAPAR",
+            "unor_induk_lengkap": "Dinas Kepemudaan, Olahraga, dan Pariwisata"
+        },
+        {
+            "singkatan": "DKPPP",
+            "unor_induk_lengkap": "Dinas Ketahanan Pangan, Pertanian, dan Perikanan"
+        },
+        {
+            "singkatan": "DKUKMTK",
+            "unor_induk_lengkap": "Dinas Koperasi, Usaha Kecil dan Menengah, dan Tenaga Kerja"
+        },
+        {
+            "singkatan": "DPLH",
+            "unor_induk_lengkap": "Dinas Pertanahan dan Lingkungan Hidup"
+        },
+        {
+            "singkatan": "DPMPTSP",
+            "unor_induk_lengkap": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu"
+        },
+        {
+            "singkatan": "DPPPAPPKBPMD",
+            "unor_induk_lengkap": "Dinas Pemberdayaan Perempuan dan Perlindungan Anak, Pengendalian Penduduk dan Keluarga Berencana, serta Pemberdayaan Masyarakat dan Desa"
+        },
+        {
+            "singkatan": "DPUPRPERKIM",
+            "unor_induk_lengkap": "Dinas Pekerjaan Umum, Penataan Ruang, Perumahan Rakyat, dan Kawasan Permukiman"
+        },
+        {
+            "singkatan": "INSPEKTORAT DAERAH",
+            "unor_induk_lengkap": "Inspektorat Daerah"
+        },
+        {
+            "singkatan": "RSDKH",
+            "unor_induk_lengkap": "Rumah Sakit Umum Daerah Datu Kandang Haji"
+        },
+        {
+            "singkatan": "SATPOLPP",
+            "unor_induk_lengkap": "Satuan Polisi Pamong Praja"
+        },
+        {
+            "singkatan": "SEKRETARIAT DAERAH",
+            "unor_induk_lengkap": "Sekretariat Daerah"
+        },
+        {
+            "singkatan": "SEKRETARIAT DPRD",
+            "unor_induk_lengkap": "Sekretariat DPRD"
+        },
+        {
+            "singkatan": "KEC. AWAYAN",
+            "unor_induk_lengkap": "Kecamatan Awayan"
+        },
+        {
+            "singkatan": "KEC. BATUMANDI",
+            "unor_induk_lengkap": "Kecamatan Batumandi"
+        },
+        {
+            "singkatan": "KEC. HALONG",
+            "unor_induk_lengkap": "Kecamatan Halong"
+        },
+        {
+            "singkatan": "KEC. JUAI",
+            "unor_induk_lengkap": "Kecamatan Juai"
+        },
+        {
+            "singkatan": "KEC. LAMPIHONG",
+            "unor_induk_lengkap": "Kecamatan Lampihong"
+        },
+        {
+            "singkatan": "KEC. PARINGIN",
+            "unor_induk_lengkap": "Kecamatan Paringin"
+        },
+        {
+            "singkatan": "KEC. PARINGIN SELATAN",
+            "unor_induk_lengkap": "Kecamatan Paringin Selatan"
+        },
+        {
+            "singkatan": "KEC. TEBING TINGGI",
+            "unor_induk_lengkap": "Kecamatan Tebing Tinggi"
+        }
+    ],
+    "jenjang_jf": [
+        {
+            "jenjang_jf": "Pemula"
+        },
+        {
+            "jenjang_jf": "Terampil"
+        },
+        {
+            "jenjang_jf": "Mahir"
+        },
+        {
+            "jenjang_jf": "Penyelia"
+        },
+        {
+            "jenjang_jf": "Ahli Pertama"
+        },
+        {
+            "jenjang_jf": "Ahli Muda"
+        },
+        {
+            "jenjang_jf": "Ahli Madya"
+        },
+        {
+            "jenjang_jf": "Ahli Utama"
+        }
+    ],
+    "prosedur_kp": [
+        {
+            "prosedur_kp": "Reguler - Pelaksana"
+        },
+        {
+            "prosedur_kp": "Pilihan - Fungsional"
+        },
+        {
+            "prosedur_kp": "Pilihan - Struktural"
+        },
+        {
+            "prosedur_kp": "Pilihan - Penyesuaian Ijazah"
+        },
+        {
+            "prosedur_kp": "Pilihan - Prestasi Luar Biasa"
+        }
+    ],
+    "nama_jf": [
+        {
+            "nama_jf": "Administrator Kesehatan"
+        },
+        {
+            "nama_jf": "Analis Akuakultur"
+        },
+        {
+            "nama_jf": "Analis Hukum"
+        },
+        {
+            "nama_jf": "Analis Kebijakan"
+        },
+        {
+            "nama_jf": "Analis Ketahanan Pangan"
+        },
+        {
+            "nama_jf": "Analis Keuangan Pusat dan Daerah"
+        },
+        {
+            "nama_jf": "Analis Pasar Hasil Pertanian"
+        },
+        {
+            "nama_jf": "Analis Perdagangan"
+        },
+        {
+            "nama_jf": "Analis Sumber Daya Manusia Aparatur"
+        },
+        {
+            "nama_jf": "Apoteker"
+        },
+        {
+            "nama_jf": "Arsiparis"
+        },
+        {
+            "nama_jf": "Asisten Apoteker"
+        },
+        {
+            "nama_jf": "Auditor"
+        },
+        {
+            "nama_jf": "Bidan"
+        },
+        {
+            "nama_jf": "Dokter"
+        },
+        {
+            "nama_jf": "Dokter Gigi"
+        },
+        {
+            "nama_jf": "Epidemiolog Kesehatan"
+        },
+        {
+            "nama_jf": "Fisioterapis"
+        },
+        {
+            "nama_jf": "Guru"
+        },
+        {
+            "nama_jf": "Instruktur"
+        },
+        {
+            "nama_jf": "Mediator Hubungan Industrial"
+        },
+        {
+            "nama_jf": "Medik Veteriner"
+        },
+        {
+            "nama_jf": "Nutrisionis"
+        },
+        {
+            "nama_jf": "Pamong Belajar"
+        },
+        {
+            "nama_jf": "Pamong Budaya"
+        },
+        {
+            "nama_jf": "Paramedik Veteriner"
+        },
+        {
+            "nama_jf": "Pekerja Sosial"
+        },
+        {
+            "nama_jf": "Pembina Jasa Konstruksi"
+        },
+        {
+            "nama_jf": "Penata Anastesi"
+        },
+        {
+            "nama_jf": "Penata Kelola Bangunan Gedung dan Kawasan Permukiman"
+        },
+        {
+            "nama_jf": "Penata Kelola Jalan dan Jembatan"
+        },
+        {
+            "nama_jf": "Penata Kelola Penyehatan Lingkungan"
+        },
+        {
+            "nama_jf": "Penata Kependudukan dan Keluarga Berencana"
+        },
+        {
+            "nama_jf": "Penata Perizinan"
+        },
+        {
+            "nama_jf": "Penata Pertanahan"
+        },
+        {
+            "nama_jf": "Penata Ruang"
+        },
+        {
+            "nama_jf": "Peneliti"
+        },
+        {
+            "nama_jf": "Penera"
+        },
+        {
+            "nama_jf": "Pengantar Kerja"
+        },
+        {
+            "nama_jf": "Pengawas Alat dan Mesin Pertanian"
+        },
+        {
+            "nama_jf": "Pengawas Benih Tanaman"
+        },
+        {
+            "nama_jf": "Pengawas Bibit Ternak"
+        },
+        {
+            "nama_jf": "Pengawas Kemetrologian"
+        },
+        {
+            "nama_jf": "Pengawas Koperasi"
+        },
+        {
+            "nama_jf": "Pengawas Lingkungan Hidup"
+        },
+        {
+            "nama_jf": "Pengawas Mutu Hasil Pertanian"
+        },
+        {
+            "nama_jf": "Pengawas Penyelenggaraan Urusan Pemerintahan Daerah"
+        },
+        {
+            "nama_jf": "Pengawas Perikanan"
+        },
+        {
+            "nama_jf": "Pengawas Sekolah"
+        },
+        {
+            "nama_jf": "Pengelola Pengadaan Barangjasa"
+        },
+        {
+            "nama_jf": "Pengelola Sumber Daya Air"
+        },
+        {
+            "nama_jf": "Pengembang Kewirausahaan"
+        },
+        {
+            "nama_jf": "Pengendali Dampak Lingkungan"
+        },
+        {
+            "nama_jf": "Penggerak Swadaya Masyarakat"
+        },
+        {
+            "nama_jf": "Penguji Kendaraan Bermotor"
+        },
+        {
+            "nama_jf": "Penilik"
+        },
+        {
+            "nama_jf": "Penyuluh Perindustrian dan Perdagangan"
+        },
+        {
+            "nama_jf": "Penyuluh Pertanian"
+        },
+        {
+            "nama_jf": "Penyuluh Sosial"
+        },
+        {
+            "nama_jf": "Perancang Peraturan Perundang-Undangan"
+        },
+        {
+            "nama_jf": "Perawat"
+        },
+        {
+            "nama_jf": "Perekam Medis"
+        },
+        {
+            "nama_jf": "Perencana"
+        },
+        {
+            "nama_jf": "Polisi Pamong Praja"
+        },
+        {
+            "nama_jf": "Pranata Hubungan Masyarakat"
+        },
+        {
+            "nama_jf": "Pranata Komputer"
+        },
+        {
+            "nama_jf": "Pranata Laboratorium Kesehatan"
+        },
+        {
+            "nama_jf": "Pustakawan"
+        },
+        {
+            "nama_jf": "Radiografer"
+        },
+        {
+            "nama_jf": "Refraksionis Optisien"
+        },
+        {
+            "nama_jf": "Sandiman"
+        },
+        {
+            "nama_jf": "Statistisi"
+        },
+        {
+            "nama_jf": "Surveyor Pemetaan"
+        },
+        {
+            "nama_jf": "Teknisi Elektromedis"
+        },
+        {
+            "nama_jf": "Tenaga Promosi Kesehatan dan Ilmu Perilaku"
+        },
+        {
+            "nama_jf": "Tenaga Sanitasi Lingkungan"
+        },
+        {
+            "nama_jf": "Terapis Gigi dan Mulut"
+        }
+    ]
+}
+
+
+Apakah sudah benar?
