@@ -3,117 +3,117 @@
         {
             "golongan": "I/a",
             "pangkat": "Juru Muda",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "I/b",
             "pangkat": "Juru Muda Tk. I",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "I/c",
             "pangkat": "Juru",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "I/d",
             "pangkat": "Juru Tk. I",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "II/a",
             "pangkat": "Pengatur Muda",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "II/b",
             "pangkat": "Pengatur Muda Tk. I",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "II/c",
             "pangkat": "Pengatur",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "II/d",
             "pangkat": "Pengatur Tk. I",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "III/a",
             "pangkat": "Penata Muda",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "III/b",
             "pangkat": "Penata Muda Tk. I",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "III/c",
             "pangkat": "Penata",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "III/d",
             "pangkat": "Penata Tk. I",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "IV/a",
             "pangkat": "Pembina",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "IV/b",
             "pangkat": "Pembina Tk. I",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "IV/c",
             "pangkat": "Pembina Utama Muda",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "IV/d",
             "pangkat": "Pembina Utama Madya",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "IV/e",
             "pangkat": "Pembina Utama",
-            "jenis": "PNS"
+            "status_kepegawaian": "PNS"
         },
         {
             "golongan": "V",
             "pangkat": "-",
-            "jenis": "PPPK"
+            "status_kepegawaian": "PPPK"
         },
         {
             "golongan": "VI",
             "pangkat": "-",
-            "jenis": "PPPK"
+            "status_kepegawaian": "PPPK"
         },     
         {
             "golongan": "VII",
             "pangkat": "-",
-            "jenis": "PPPK"
+            "status_kepegawaian": "PPPK"
         },    
         {
             "golongan": "VIII",
             "pangkat": "-",
-            "jenis": "PPPK"
+            "status_kepegawaian": "PPPK"
         },   
         {
             "golongan": "IX",
             "pangkat": "-",
-            "jenis": "PPPK"
+            "status_kepegawaian": "PPPK"
         },
         {
             "golongan": "X",
             "pangkat": "-",
-            "jenis": "PPPK"
+            "status_kepegawaian": "PPPK"
         }
     ],
     "unor_induk": [
