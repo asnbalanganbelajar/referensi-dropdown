@@ -2,71 +2,118 @@
     "golongan": [
         {
             "golongan": "I/a",
-            "pangkat": "Juru Muda"
+            "pangkat": "Juru Muda",
+            "jenis": "PNS"
         },
         {
             "golongan": "I/b",
-            "pangkat": "Juru Muda Tk. I"
+            "pangkat": "Juru Muda Tk. I",
+            "jenis": "PNS"
         },
         {
             "golongan": "I/c",
-            "pangkat": "Juru"
+            "pangkat": "Juru",
+            "jenis": "PNS"
         },
         {
             "golongan": "I/d",
-            "pangkat": "Juru Tk. I"
+            "pangkat": "Juru Tk. I",
+            "jenis": "PNS"
         },
         {
             "golongan": "II/a",
-            "pangkat": "Pengatur Muda"
+            "pangkat": "Pengatur Muda",
+            "jenis": "PNS"
         },
         {
             "golongan": "II/b",
-            "pangkat": "Pengatur Muda Tk. I"
+            "pangkat": "Pengatur Muda Tk. I",
+            "jenis": "PNS"
         },
         {
             "golongan": "II/c",
-            "pangkat": "Pengatur"
+            "pangkat": "Pengatur",
+            "jenis": "PNS"
         },
         {
             "golongan": "II/d",
-            "pangkat": "Pengatur Tk. I"
+            "pangkat": "Pengatur Tk. I",
+            "jenis": "PNS"
         },
         {
             "golongan": "III/a",
-            "pangkat": "Penata Muda"
+            "pangkat": "Penata Muda",
+            "jenis": "PNS"
         },
         {
             "golongan": "III/b",
-            "pangkat": "Penata Muda Tk. I"
+            "pangkat": "Penata Muda Tk. I",
+            "jenis": "PNS"
         },
         {
             "golongan": "III/c",
-            "pangkat": "Penata"
+            "pangkat": "Penata",
+            "jenis": "PNS"
         },
         {
             "golongan": "III/d",
-            "pangkat": "Penata Tk. I"
+            "pangkat": "Penata Tk. I",
+            "jenis": "PNS"
         },
         {
             "golongan": "IV/a",
-            "pangkat": "Pembina"
+            "pangkat": "Pembina",
+            "jenis": "PNS"
         },
         {
             "golongan": "IV/b",
-            "pangkat": "Pembina Tk. I"
+            "pangkat": "Pembina Tk. I",
+            "jenis": "PNS"
         },
         {
             "golongan": "IV/c",
-            "pangkat": "Pembina Utama Muda"
+            "pangkat": "Pembina Utama Muda",
+            "jenis": "PNS"
         },
         {
             "golongan": "IV/d",
-            "pangkat": "Pembina Utama Madya"
+            "pangkat": "Pembina Utama Madya",
+            "jenis": "PNS"
         },
         {
             "golongan": "IV/e",
-            "pangkat": "Pembina Utama"
+            "pangkat": "Pembina Utama",
+            "jenis": "PNS"
+        },
+        {
+            "golongan": "V",
+            "pangkat": "-",
+            "jenis": "PPPK"
+        },
+        {
+            "golongan": "VI",
+            "pangkat": "-",
+            "jenis": "PPPK"
+        },     
+        {
+            "golongan": "VII",
+            "pangkat": "-",
+            "jenis": "PPPK"
+        },    
+        {
+            "golongan": "VIII",
+            "pangkat": "-",
+            "jenis": "PPPK"
+        },   
+        {
+            "golongan": "IX",
+            "pangkat": "-",
+            "jenis": "PPPK"
+        },
+        {
+            "golongan": "X",
+            "pangkat": "-",
+            "jenis": "PPPK"
         }
     ],
     "unor_induk": [
